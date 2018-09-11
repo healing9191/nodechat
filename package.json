@@ -1,0 +1,14 @@
+{
+    "name": "hichart",
+    "description": "a realtime chat web application",
+    "version": "0.4.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "4.16.3",
+        "socket.io": "2.1.1"
+    },
+    "engines": {
+        "node": "8.11.3",
+        "npm": "5.6.0"
+    }
+}
